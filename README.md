@@ -8,11 +8,6 @@ With the help of this dashboard we can find most runs scored per season and high
 Similarly we can also find most wickets taken per season and highest wicket taking bowler.
 We can also find insights of the team how they performed per season and which is the best team in overall IPL series.
 
-We can access this dashboard here :
-
-
-https://app.powerbi.com/view?r=eyJrIjoiYjM0YjM5NzktZDkyNy00ZGQxLWI4OWQtZDdlMDZkNzQyYTBmIiwidCI6ImM3ZjhjM2NlLTM4MjUtNGVjZi05ODdjLTFmODc4NmQwMTlhMiJ9
-
 
 The dashboard home-page is like this :
 
